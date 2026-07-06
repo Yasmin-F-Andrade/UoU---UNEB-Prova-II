@@ -322,9 +322,9 @@ public abstract class Heroi
        {
           //Execução parte final da lista
 
-          bool JogoRodando = true;//condição para inciar ou encerrar o gameloop
+          bool JogoRodando = true; //condição para inciar ou encerrar o gameloop
           HeroiAlianca Paçoquinha = new HeroiAlianca ("Paçoquinha", 80); //criação de um objeto que vai possuir as caracteristicas de HeroiAliança
-          HeroiHorda Devo = new HeroiHorda ("Devorador de Mundos", 80); //criação de um objeto que vai possuir as caracteristicas de HeroiAliança
+          HeroiHorda Devo = new HeroiHorda ("Devorador de Mundos", 80); //criação de um objeto que vai possuir as caracteristicas de HeroiHorda
 
           while (JogoRodando == true) //looping de game pedido na atividade
           {
