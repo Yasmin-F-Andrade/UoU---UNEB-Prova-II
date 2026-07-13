@@ -160,7 +160,7 @@ To return damage, return(Dano) was used.
 
 
 7. Create an attribute of type Magia in the Heroi class. 
-protected Magia magia;
+protected Magia magia.
 
 
 
