@@ -32,7 +32,7 @@ From the Original Code had it’s name altered to ReceberDano (With the Purpose 
 2. Add a new Attribute to the Hero Class Called UTHeroi (Time Units). This Attribute will be Utilized to control the quantity of Actions a Hero can do each Game Cycle.
 
 
- protected float UTHeroi;
+ protected float UTHeroi.
 
 
 Protected was used To avoid that the Variable ends up being pulled out by an out of the Class Code, and float because it utilizes a small memory quantity, wich would be appropriate considering that the Values would be Small.
