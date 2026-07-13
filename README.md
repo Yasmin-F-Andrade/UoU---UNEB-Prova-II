@@ -241,7 +241,7 @@ public class Arma
        }
 
 
-       //Get e Set
+       //Get and Set
 
 
         public string GetNomeA()
